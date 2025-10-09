@@ -29,7 +29,7 @@ jupyter notebook
 
 ## Author
 
-[@jamjava](https://github.com/jamjava)
+[@jamjavad](https://github.com/jamjavad)
 
 ---
 
