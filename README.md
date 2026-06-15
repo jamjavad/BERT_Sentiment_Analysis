@@ -24,7 +24,7 @@ jupyter notebook
 
 ## Files
 
-- Untitled.ipynb - Main notebook
+- BERT_Sentiment_Analysis.ipynb - Main notebook
 - best_bert_sentiment_model.pth - Trained model
 
 ## Author
